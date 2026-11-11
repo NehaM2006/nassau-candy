@@ -1,0 +1,39 @@
+Total sales: 141,783.63 | total gross profit: 93,442.80 | overall margin: 65.91%
+Date range: 2024-01-02 to 2025-12-31
+Products for 80% of revenue: 5 of 15 (33%)
+Products for 80% of profit : 5 of 15 (33%)
+Top product profit share: Wonka Bar - Scrumdiddlyumptious = 20.7%
+Top 5 products profit share: 95.1%
+Sensitivity (duplicates removed) margin: 65.86% vs 65.91%
+
+Risk flags:
+                     Product Name  Margin %              Risk Flag                                Quadrant
+  Wonka Bar - Scrumdiddlyumptious     69.44                Healthy          Star (high sales, high margin)
+Wonka Bar - Triple Dazzle Caramel     65.33                Healthy          Star (high sales, high margin)
+       Wonka Bar - Milk Chocolate     64.92                Healthy          Star (high sales, high margin)
+Wonka Bar - Nutty Crunch Surprise     71.35                Healthy          Star (high sales, high margin)
+        Wonka Bar - Fudge Mallows     66.67                Healthy          Star (high sales, high margin)
+               Lickable Wallpaper     50.00                Healthy    Volume trap (high sales, low margin)
+                        Wonka Gum     52.00   Low volume - monitor    Volume trap (high sales, low margin)
+           Everlasting Gobstopper     80.00   Low volume - monitor Niche / growth (low sales, high margin)
+                        Kazookles      7.69 Discontinuation review    Volume trap (high sales, low margin)
+                      Hair Toffee     77.78   Low volume - monitor Niche / growth (low sales, high margin)
+             Fizzy Lifting Drinks     60.00   Low volume - monitor            Weak (low sales, low margin)
+                      Laffy Taffy     62.31   Low volume - monitor Niche / growth (low sales, high margin)
+                        SweeTARTS     46.67 Discontinuation review            Weak (low sales, low margin)
+                            Nerds     46.67 Discontinuation review            Weak (low sales, low margin)
+                          Fun Dip     40.00 Discontinuation review            Weak (low sales, low margin)
+
+Division metrics:
+ Division     Sales   Profit  Units  Products  Margin %  Revenue Share %  Profit Share %  Share Gap (pts)
+Chocolate 131692.90 88824.62  37275         5     67.45            92.88           95.06             2.17
+    Other   9663.25  4333.45   1242         3     44.84             6.82            4.64            -2.18
+    Sugar    427.48   284.73    137         7     66.61             0.30            0.30             0.00
+
+Factory margin:
+          Factory    Sales   Profit  Margin %
+    Lot's O' Nuts 76340.15 52771.05     69.13
+   Secret Factory  8587.50  4344.70     50.59
+      Sugar Shack   220.98   121.23     54.86
+The Other Factory  1282.25   152.25     11.87
+  Wicked Choccy's 55352.75 36053.57     65.13

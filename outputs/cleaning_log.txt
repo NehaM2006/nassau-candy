@@ -1,0 +1,11 @@
+Raw rows loaded: 10,194 | columns: 18
+Invalid Order Date rows removed: 0
+Ship Date check: lag ranges 904 to 1642 days (impossible). Ship Date NOT used in the analysis.
+Standardised labels -> 15 unique products, 3 divisions
+Rows with missing Sales/Cost/Profit removed: 0
+Rows with Sales<=0 or Cost<=0 removed: 0
+Rows with missing/invalid Units imputed: 0
+Rows where Gross Profit != Sales - Cost (recalculated): 0
+Duplicate Row IDs removed: 0
+Rows identical except Row ID: 313 (KEPT - plausible repeat line items; sensitivity check in analysis.py)
+Final clean rows: 10,194

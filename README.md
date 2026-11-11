@@ -3,7 +3,7 @@
 Product line profitability and margin performance analysis for Nassau Candy Distributor
 (Unified Mentor project). It answers one question: which products and divisions actually make money?
 
-**Live dashboard:** 
+**Live dashboard:** https://f7vmnzz5bxurfvxs5tyuem.streamlit.app/
 
 ## Key findings
 - 10,194 order lines, Jan 2024 to Dec 2025. Sales 141,784, gross profit 93,443, margin 65.9%.
